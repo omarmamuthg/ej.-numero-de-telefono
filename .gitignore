@@ -1,0 +1,15 @@
+# Ignorar los directorios bin y obj generados por la compilación
+bin/
+obj/
+
+# Ignorar archivos temporales de sistema
+*.tmp
+*.log
+
+# Ignorar archivos específicos del IDE
+.vscode/
+*.suo
+*.user
+
+# Ignorar archivos de configuración de compilación
+*.sln.docstates
