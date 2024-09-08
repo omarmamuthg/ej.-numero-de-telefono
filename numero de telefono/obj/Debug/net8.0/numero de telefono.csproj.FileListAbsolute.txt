@@ -1,0 +1,14 @@
+D:\proyectosC#\numero de telefono\numero de telefono\bin\Debug\net8.0\numero de telefono.exe
+D:\proyectosC#\numero de telefono\numero de telefono\bin\Debug\net8.0\numero de telefono.deps.json
+D:\proyectosC#\numero de telefono\numero de telefono\bin\Debug\net8.0\numero de telefono.runtimeconfig.json
+D:\proyectosC#\numero de telefono\numero de telefono\bin\Debug\net8.0\numero de telefono.dll
+D:\proyectosC#\numero de telefono\numero de telefono\bin\Debug\net8.0\numero de telefono.pdb
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.AssemblyInfoInputs.cache
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.AssemblyInfo.cs
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.csproj.CoreCompileInputs.cache
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.dll
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\refint\numero de telefono.dll
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.pdb
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\numero de telefono.genruntimeconfig.cache
+D:\proyectosC#\numero de telefono\numero de telefono\obj\Debug\net8.0\ref\numero de telefono.dll
